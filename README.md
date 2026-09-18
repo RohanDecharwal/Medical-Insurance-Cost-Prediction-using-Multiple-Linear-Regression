@@ -1,4 +1,3 @@
-# AI-ML Assignment – 1
 ## Medical Insurance Cost Prediction using Multiple Linear Regression
 
 ### Student Details
@@ -83,7 +82,7 @@ This project demonstrates how Multiple Linear Regression can be used to predict 
 # Repository Structure
 
 ```
-├── Assignment_1.ipynb
+├── Medical Insurance Cost Prediction using Multiple Linear Regression.ipynb
 ├── README.md
 ```
 
